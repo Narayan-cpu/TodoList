@@ -1,4 +1,3 @@
-
 # 🚀 Todo List Application
 
 Manage your tasks with style! This **Todo List Application** is built using **Django** and offers a seamless way to organize your tasks. With a modern **space-themed UI**, it’s a single-page application designed to make task management effortless—and visually stunning. 🌌
