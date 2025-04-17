@@ -1,6 +1,3 @@
-Here’s a cooler and more visually appealing version of your README:
-
----
 
 # 🚀 Todo List Application
 
